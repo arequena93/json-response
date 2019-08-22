@@ -1,0 +1,21 @@
+{
+    "name": "terdia/learning_composer",
+    "description": "A simple class that returns a properly formatted json response with HTTP status",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Antoni Requena",
+            "email": "antoni.requena@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Devscreencast\\ResponseClass\\": "src/"
+        }
+    },
+    "require-dev": {
+    }
+}
