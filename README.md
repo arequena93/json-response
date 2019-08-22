@@ -30,4 +30,4 @@ new JsonResponse('ok', '', $student);
 string - the return message, use empty quote if not available
 
 ### Param 3 (Optional)
-Array - array of data
+Array - Array of data
